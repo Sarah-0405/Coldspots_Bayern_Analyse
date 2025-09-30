@@ -1,5 +1,6 @@
 # Coldspots_Bayern_Analyse
-Diese Repositorium enthält die Codes zur Analyse der Cold Spots in den bayerischen Städten mit >50.000 Einwohner*innen
+
+Diese Repositorium enthält die Codes zur Analyse der Cold Spots in den bayerischen Städten mit>50.000 Einwohner*innen
 Die Städte mit den Einwohnern über 50.000 wurden aus den Zensus-Daten entnommen. 
 
 Die Städte-Polygone wurden über OSMnx bezogen, siehe Notebook "Polygone_Städte_über_50tsd.ipynb". 
