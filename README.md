@@ -23,6 +23,8 @@ Die Codes für die Plots sind im Notebook "**07-Plots.ipynb**" vorhanden.
 Die für die Analyse benötigten Zensus-Tabellen im CSV-Format sind im Ordner "**_**" gespeichert, genauso wie die Rasterdatei der Local Climate Zones für Bayern ("**LCZs_bayern.tif**")
 Alle weiteren Daten werden innerhalb der vorhandenen Codes erstellt und sind dadurch reproduzierbar. 
 
+Der Ordner "**bundeslaender_grenzen**" enthält ein Shapefile mit den Geometrien der Bundesländer Deutschlands. Daraus wurde zum Erstellen einer Übersichtskarte, Bayern extrahiert. 
+
 
 
 
