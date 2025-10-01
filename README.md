@@ -13,7 +13,7 @@ Außerdem wurden Daten des Zensus 2022 für die drei Gruppen Menschen über 65 J
 
 Schließlich wurde eine Erreichbarkeitsanalyse für die Cold Spots durchgeführt und diese Daten mit den Bevölkerungsdaten verknüpft, um die Erreichbarkeiten vulnerabler Gruppen zu Cold Spots im Vergleich zur Gesamtbevölkerung einzuordnen, siehe Notebook "**05-OSMnx_Erreichbarkeiten.ipynb**". 
 
-Im Notebook "**06-LCZs_Cold_Spots_Kombination.ipynb**" wurden die Cold Spot Daten mit dem Local Climate Zones Datensatz verknüpft, um Muster in der räumlichen Verteilung der Cold Spots festzustellen.
+Im Notebook "**06-LCZs_Coldspots_kombinieren.ipynb**" wurden die Cold Spot Daten mit dem Local Climate Zones Datensatz verknüpft, um Muster in der räumlichen Verteilung der Cold Spots festzustellen.
 
 Die Codes für die Plots sind im Notebook "**07-Plots.ipynb**" vorhanden. 
 
